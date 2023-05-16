@@ -1,0 +1,1 @@
+Haskell program that computes the factorial of a number. Uses pattern matching
